@@ -9,6 +9,5 @@ Diverse Data Structures: Utilizes Linked Lists (for patients, appointments, reso
 
 Data Persistence: All data is saved to and loaded from text files, ensuring information is not lost.
 
-Robust Input: Includes input validation for user-friendly interaction.
 
 
