@@ -1,5 +1,5 @@
 # DHMS
-The District Health Management System is a C++ console application designed to efficiently manage hospital operations, demonstrating key concepts in data structures and file handling.
+District Health Management System is a C++ console application designed to efficiently manage hospital operations, demonstrating key concepts in data structures and file handling.
 
 Key Features
 Comprehensive Management: Handles Patients, Doctors, Appointments, Resources, and Emergencies.
